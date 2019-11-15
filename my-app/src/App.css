@@ -7,7 +7,10 @@
 }
 
 .App-header {
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: bookmania, serif;
+  font-style: normal;
+  font-weight: 600;
   background-color: #ffffff;
   min-height: 100vh;
   display: flex;

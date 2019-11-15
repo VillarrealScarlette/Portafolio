@@ -5,8 +5,8 @@ const Home = (props) => {
   return (
     <div>
       <Card body style={{ backgroundColor: '#333', borderColor: '#333' }}>
-          <CardTitle>PORTAFOLIO</CardTitle>
-          <CardText>Portfolio about Scarlette Porject's</CardText>
+          <CardTitle>PORTFOLIO</CardTitle>
+          <CardText>Portfolio about Scarlette Project's</CardText>
       </Card>
     </div>
   );
