@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #ffffff !important;
+    height: 100%;
+}
+
+.nav {
+    font-family: "Avenir Next", serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #111C11;
+    opacity: 40%;
+}
