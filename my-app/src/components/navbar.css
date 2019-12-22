@@ -3,10 +3,57 @@
     height: 100%;
 }
 
-.nav {
+.navbar-collapse {
     font-family: "Avenir Next", serif;
     font-style: normal;
     font-weight: 300;
     color: #111C11;
     opacity: 40%;
+    margin-right: 110px;
+}
+
+a.padding {
+    padding: 5px 0px;
+}
+
+a.nounderline:visited {
+    text-decoration: none;
+}
+
+a.nounderline:link {
+    text-decoration: none;
+}
+
+a.nounderline:active {
+    text-decoration: none;   
+}
+
+a.nounderline:hover {
+    text-decoration: none;
+}
+
+a.nounderline {
+    color: #111C11;
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+.github {
+    background-image: url(../img/GitHub.png);
+}
+
+.linkedin {
+    background-image: url(../img/LinkedIn.png);   
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    border: none;
+    margin: 5px 0px;
+    border-radius: 65px;
+}
+
+.icon:hover {
+    opacity: 70%;
 }
