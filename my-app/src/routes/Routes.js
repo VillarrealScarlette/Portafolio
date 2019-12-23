@@ -11,16 +11,16 @@ const Routes = () => {
           <Redirect
               exact
               from="/"
-              to="/AboutMe" />
+              to="Portafolio/AboutMe" />
             <Switch>
               <Route
-                path="/AboutMe"
+                path="Portafolio/AboutMe"
                 component={AboutMe} />
                 <Route
-                path="/Proyectos"
+                path="Portafolio/Proyectos"
                 component={Projects} />
                 <Route
-                path="/Contacto"
+                path="Portafolio/Contacto"
                 component={Contact} />
             </Switch>
           </React.Fragment>
