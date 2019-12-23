@@ -1,0 +1,137 @@
+.navbar {
+    background-color: #ffffff !important;
+    height: 100%;
+}
+
+.navbar-collapse {
+    font-family: "Avenir Next", serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #111C11;
+    opacity: 40%;
+    margin-right: 110px;
+}
+
+a.padding {
+    padding: 5px 0px;
+}
+
+a.nounderline:active a.nounderline:hover a.nounderline:link a.nounderline:visited  {
+    text-decoration: none;   
+}
+
+a.nounderline {
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+.github {
+    background-image: url(../img/GitHub.png);
+}
+
+.linkedin {
+    background-image: url(../img/LinkedIn.png);   
+}
+
+.logo {
+    background-image: url(../img/logo.png);
+    width: 65px;
+    height: 65px;
+    border: none;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    border: none;
+    margin: 5px 0px;
+    border-radius: 65px;
+}
+
+.icon:hover {
+    opacity: 70%;
+}
+
+.sn {
+    margin: 0px 10px;
+    color: #111C11;
+    cursor: pointer;
+}
+
+.section_projects {
+    width: 1135px;
+    height: auto;
+    text-align: justify;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.container_projects {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 250px;
+}
+
+.link_burger {
+    width: 510px;
+    height: 300px;
+    margin: 20px 0px 20px 60px;
+}
+
+.link_moodie {
+    width: 400px;
+    height: 240px;
+    margin: -10px 30px 0px 70px;
+}
+
+.link_wikipokemon {
+    width: 280px;
+    height: 330px;
+    margin: 10px 0px 20px 0px;
+}
+
+.link_battleship {
+    width: 510px;
+    height: 314px;
+    margin: 60px 0px 10px 30px;
+}
+
+.link_match {
+    width: 230px;
+    height: 311px;
+    margin: -40px 10px 20px 40px;
+}
+
+.link_cipher {
+    width: 510px;
+    height: 314px;
+    margin: 20px auto 20px 70px;
+}
+
+.img_match {
+    width: 230px;
+}
+
+.img_burger {
+    width: 510px;
+}
+
+.img_cipher {
+    width: 510px;
+}
+
+.img_battleship {
+    width: 510px;
+}
+
+.img_moodie {
+    width: 400px;
+}
+
+.img_wikipokemon {
+    width: 280px;
+}
+
+.img_match .img_burger .img_cipher .img_battleship .img_moodie .img_wikipokemon {
+    height: auto;
+}
