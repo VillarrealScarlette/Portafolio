@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.0ebe4456.chunk.css",
-    "main.js": "/Portafolio/static/js/main.b07d7632.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.b07d7632.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.b9ea42a5.chunk.css",
+    "main.js": "/Portafolio/static/js/main.ecb07a5a.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.ecb07a5a.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.2a199dca.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.2a199dca.js.map",
     "static/css/2.d7a94725.chunk.css": "/Portafolio/static/css/2.d7a94725.chunk.css",
-    "static/js/2.09d41813.chunk.js": "/Portafolio/static/js/2.09d41813.chunk.js",
-    "static/js/2.09d41813.chunk.js.map": "/Portafolio/static/js/2.09d41813.chunk.js.map",
+    "static/js/2.a5fbdc5a.chunk.js": "/Portafolio/static/js/2.a5fbdc5a.chunk.js",
+    "static/js/2.a5fbdc5a.chunk.js.map": "/Portafolio/static/js/2.a5fbdc5a.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.bbd01a47560ba5c495da6f301a868e49.js": "/Portafolio/precache-manifest.bbd01a47560ba5c495da6f301a868e49.js",
+    "precache-manifest.dffb3c5d4ed07def0865cbea6b8ab88a.js": "/Portafolio/precache-manifest.dffb3c5d4ed07def0865cbea6b8ab88a.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/2.d7a94725.chunk.css.map": "/Portafolio/static/css/2.d7a94725.chunk.css.map",
-    "static/css/main.0ebe4456.chunk.css.map": "/Portafolio/static/css/main.0ebe4456.chunk.css.map"
+    "static/css/main.b9ea42a5.chunk.css.map": "/Portafolio/static/css/main.b9ea42a5.chunk.css.map",
+    "static/media/battleship_web.png": "/Portafolio/static/media/battleship_web.28b3fd93.png",
+    "static/media/burger_queen_web.png": "/Portafolio/static/media/burger_queen_web.28bf75a7.png",
+    "static/media/cipher_web.png": "/Portafolio/static/media/cipher_web.9b5a0c39.png",
+    "static/media/match_goal_iphone.png": "/Portafolio/static/media/match_goal_iphone.70848391.png",
+    "static/media/moodie_tablet.png": "/Portafolio/static/media/moodie_tablet.4ff0507f.png",
+    "static/media/wikipokemon_tablet.png": "/Portafolio/static/media/wikipokemon_tablet.6740f771.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2a199dca.js",
     "static/css/2.d7a94725.chunk.css",
-    "static/js/2.09d41813.chunk.js",
-    "static/css/main.0ebe4456.chunk.css",
-    "static/js/main.b07d7632.chunk.js"
+    "static/js/2.a5fbdc5a.chunk.js",
+    "static/css/main.b9ea42a5.chunk.css",
+    "static/js/main.ecb07a5a.chunk.js"
   ]
 }
